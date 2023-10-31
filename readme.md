@@ -1,0 +1,1 @@
+# this repo representing a fully functional school management system and it's made using a PHP,JAVASCRIPT,HTML and CSS_ 
