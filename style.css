@@ -1,0 +1,120 @@
+@font-face {
+    font-family: "Quicksand";
+    src: url("font/Quicksand-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Honey";
+    src: url("font/HoneyScript-Light.ttf");
+}
+
+* {
+    font-family: "Quicksand";
+    font-size: 20px;
+}
+
+.logo {
+    background-image: url("resource/logo2.svg");
+    height: 150px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+ 
+}
+
+
+.title1 {
+    font-family: "Quicksand";
+    font-size: 20px;
+    letter-spacing: 3px;
+    color: white;
+    margin-top: -100px;
+    
+}
+
+
+.logo2{
+    background-image: url("resource/back.svg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.logo3{
+    background-image: url("resource/back.svg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.box{
+    background-color: rgb(126, 123, 123);
+    box-shadow: black;
+    border-radius: 15px 15px 15px;
+    height: 650px;
+    
+}
+.btn1{
+    background-color: rgba(54, 19, 19, 1);
+    font-size: 25px;
+    height: 100px;
+    color: white;
+    border-radius: 30px;
+    margin-left: 10%;
+    margin-top: 10%;
+    cursor: pointer;
+    border: 5px solid rgba(54, 19, 19, 1);
+    transition-duration: 0.4s;
+  
+
+}
+.btn1:hover{
+  
+    background: none;
+    color: white;
+
+}
+
+.btn2{
+    background-color: rgba(54, 19, 19, 1);
+    font-size: 25px;
+    height: 100px;
+    color: white;
+    border-radius: 30px;
+    margin-left: 10%;
+    margin-top: 10%;
+    cursor: pointer;
+    border: 5px solid rgba(54, 19, 19, 1);
+    transition-duration: 0.4s;
+  
+
+}
+.btn2:hover{
+    background: none;
+    color: white;
+
+}
+
+
+.title2{
+
+    font-family: "Quicksand";
+    font-size: 20px;
+    letter-spacing: 3px;
+    color: white;
+    margin-top: 600px; 
+    
+
+}
+
+
+.margin{
+    color: white;
+    margin-top: 15%;
+}
+
+.signout:hover {
+    cursor: pointer;
+}
